@@ -13,3 +13,15 @@ Some follow up questions:
 
 This was the first half to the application, which is going to be exploring Android 
 development further with hands-on coding labs. 
+
+------
+
+Part II: 
+
+In this section, Flixster App got improved by doing the following:
+
+- Passing data between screens
+- Applying activity lifecycle
+- Creating the layouts with fully defined constraints
+- Adding primary actions in the app by using ActionBar or Toolbar
+- Features that help with browsing and showcasing the movies trailers inside the app
